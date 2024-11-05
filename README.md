@@ -1,0 +1,2 @@
+# slow
+output stdin slowly
